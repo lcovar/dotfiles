@@ -1,0 +1,8 @@
+/.direnv/
+/.pre-commit-config.yaml
+/node_modules/
+dist/
+.idea
+DS-STORE
+tags
+scratch/
